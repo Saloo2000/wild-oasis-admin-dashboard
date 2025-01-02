@@ -1468,3 +1468,4 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     color: var(--color-grey-500);
   }
 `;function $de({error:e,resetErrorBoundary:t}){return K(ni,{children:[E(nA,{}),E(Cde,{children:K(Tde,{children:[E(jt,{as:"h1",children:"Something went wrong 🧐"}),E("p",{children:e.message}),E(st,{size:"large",onClick:t,children:"Try again"})]})})]})}lm.createRoot(document.getElementById("root")).render(E(M.StrictMode,{children:E(Vb,{FallbackComponent:$de,onReset:()=>window.location.replace("/"),children:E(xP,{basename:"/wild-oasis-admin-dashboard",children:E(wde,{})})})}));
+//# sourceMappingURL=index-842ced93.js.map
