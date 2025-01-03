@@ -1467,5 +1467,4 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     margin-bottom: 3.2rem;
     color: var(--color-grey-500);
   }
-`;function Rde({error:e,resetErrorBoundary:t}){return K(ni,{children:[E(iA,{}),E($de,{children:K(Mde,{children:[E(jt,{as:"h1",children:"Something went wrong 🧐"}),E("p",{children:e.message}),E(st,{size:"large",onClick:t,children:"Try again"})]})})]})}cm.createRoot(document.getElementById("root")).render(E(M.StrictMode,{children:E(Vb,{FallbackComponent:Rde,onReset:()=>window.location.replace("/"),children:E(iD,{basename:"/wild-oasis-admin-dashboard/",children:E(_de,{})})})}));
-//# sourceMappingURL=index-bf2c4886.js.map
+`;function Rde({error:e,resetErrorBoundary:t}){return K(ni,{children:[E(iA,{}),E($de,{children:K(Mde,{children:[E(jt,{as:"h1",children:"Something went wrong 🧐"}),E("p",{children:e.message}),E(st,{size:"large",onClick:t,children:"Try again"})]})})]})}cm.createRoot(document.getElementById("root")).render(E(M.StrictMode,{children:E(Vb,{FallbackComponent:Rde,onReset:()=>window.location.replace("/"),children:E(iD,{children:E(_de,{})})})}));
